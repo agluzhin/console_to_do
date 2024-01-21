@@ -1,0 +1,10 @@
+2024-01-21 15:57:27,823 INFO Starting the function 'to_do' which imitates to-do list app
+2024-01-21 15:57:27,823 INFO Starting the cycle inside 'to_do' function
+2024-01-21 15:57:29,155 INFO Reading the user's choice
+2024-01-21 15:57:31,029 INFO Task 'Coding' was successfully added
+2024-01-21 15:57:32,308 INFO Reading the user's choice
+2024-01-21 15:57:37,309 INFO All tasks were successfully shown
+2024-01-21 15:57:39,292 INFO Reading the user's choice
+2024-01-21 15:57:41,307 INFO Task 'Coding' was successfully removed
+2024-01-21 15:57:42,630 INFO Reading the user's choice
+2024-01-21 15:57:42,631 INFO Cycle succefully broken
